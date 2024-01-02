@@ -13,10 +13,15 @@
 
 ## Procedure for support removal
 ### 1.	Select support removal from the list.
+
 ### 2.	All the parts related to support removal are shown on the screen.
+
 ### 3.	Select the parts in sequence in which they are shown.
+
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+
 
 ## Procedure for UV Curing
 ### 1.	Select UV curing from the list.
@@ -27,9 +32,13 @@
 
 ## Procedure for heat treatment
 ### 1.	Select heat treatment from the list.
+
 ### 2.	All the parts related to heat treatment are shown on the screen.
+
 ### 3.	Select the parts in sequence in which they are shown.
+
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT : 
@@ -42,6 +51,7 @@
 Support in a 3D printer refers to the additional structures or materials used to provide stability and reinforcement to the printed object during the printing process, such as support structures or rafts that are printed alongside the main part to prevent deformation or collapse.
 
 Together, the main part and support elements in a 3D printer ensure the accuracy, stability, and successful fabrication of complex three-dimensional objects by providing a solid foundation and temporary scaffolding when necessary.
+
 ## step 2:
 ![Screenshot 2023-12-02 184953](https://github.com/mounika2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145633112/4ae48861-0231-415b-8842-9a5b682f4810)
 A container refers to a vessel or reservoir used to store and dispense a chemical solution, such as a resin or filament material, which is essential for the printing process.
@@ -49,6 +59,7 @@ A container refers to a vessel or reservoir used to store and dispense a chemica
 A chemical solution in a 3D printer typically refers to a specialized material, such as a photopolymer resin, that undergoes a chemical reaction, such as curing or solidification, when exposed to specific conditions, such as UV light or heat. This solution is used as the raw material for creating 3D printed objects.
 
 The container holds the chemical solution, which is then selectively dispensed and processed by the 3D printer to form successive layers and ultimately build the desired object. The properties and characteristics of the chemical solution greatly impact the final quality and properties of the printed object.
+
 ## step 3:
 ![Screenshot 2023-12-02 185003](https://github.com/mounika2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145633112/917f3aa6-bbb1-4d13-9955-79cf3106d014)
 When a 3D model is dropped into a chemical solution in the context of 3D printing, it typically refers to a process known as resin or vat polymerization. The model is submerged or lowered into a liquid resin or photopolymer solution.
@@ -56,6 +67,7 @@ When a 3D model is dropped into a chemical solution in the context of 3D printin
 Once the model is immersed in the chemical solution, it undergoes a chemical reaction, often triggered by light exposure or heat, causing the resin to solidify or cure selectively, layer by layer, following the design of the 3D model.
 
 This process allows for the creation of intricate and precise three-dimensional objects with fine details, as the chemical solution hardens and adheres to the model's surfaces, forming a solid, tangible representation of the original 3D model.
+
 ## step 4:
 ![Screenshot 2023-12-02 185013](https://github.com/mounika2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145633112/56ed6fa1-df7f-44d1-ac06-194e2e0287a6)
 In 3D printing, the main part refers to the primary component or structure of the printed object itself, excluding any support structures or additional elements.
@@ -76,9 +88,11 @@ Before UV curing in the context of 3D printing, the part refers to the printed o
 At this stage, the part is in a semi-solid or liquid state, as it has been formed by depositing and solidifying layers of the printing material, but has not yet undergone the final curing or hardening process.
 
 The part may still be fragile or prone to deformation, and additional post-processing steps, such as cleaning or removal of excess material, may be necessary before subjecting it to UV curing.
+
 ## step 2:
  ![Screenshot 2023-12-02 185047](https://github.com/mounika2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145633112/be48cadc-ad01-42c7-8418-3a27caa5478e)
  A UV carving machine is a cutting-edge device used for precise and intricate carving on various materials. It utilizes ultraviolet (UV) light technology to etch designs on surfaces. The machine employs a high-powered laser that focuses UV light to remove layers of material, creating intricate patterns and textures. It is commonly used in industries such as signage, woodworking, and jewelry making. UV carving machines offer excellent precision, speed, and versatility, making them a valuable tool for artistic and industrial applications.
+ 
 ## Step 3:
 ![Screenshot 2023-12-02 191123](https://github.com/mounika2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145633112/e5c37c49-36cc-426d-8c02-e8c32729e29d)
 
