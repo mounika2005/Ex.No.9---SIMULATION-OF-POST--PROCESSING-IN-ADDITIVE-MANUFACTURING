@@ -9,6 +9,7 @@
 ## REQUIREMENTS:
 ### System - Windows 7 or higher, 1 GB RAM.
 
+
 ## PROCEDURE:
 
 ## Procedure for support removal
